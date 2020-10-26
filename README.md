@@ -1,4 +1,44 @@
-### Hi there 👋
+### General kenobi!
+![Hello there](https://pbs.twimg.com/media/DZCuVSdWAAATA9K.jpg)
+
+# Github is :sparkling_heart:
+
+#### Programming languages I already know
+* C#
+* Python
+* Javascript
+* Php
+
+#### Programming languages I'm learning
+* kotlin
+* Lua
+* Dart
+* C / C++
+
+### This is the way
+_C#_
+``` c#
+  //This is good 🧐
+  public void SayHey()
+  {
+      Console.WriteLine("Hey hey hey!");
+  }
+  
+  //This is bad 😠
+  public void SayHey(){
+      Console.WriteLine("Hey hey hey!");
+  }
+```
+_Javascript_
+``` javascript
+  //This is ok in javascript
+  function SayHey() {
+      console.log("Hey hey hey!");
+  }
+  // :scream_cat:
+  const sayHey = () => { console.log("HEY"); } 
+  
+```
 
 <!--
 **Gers2017/Gers2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
