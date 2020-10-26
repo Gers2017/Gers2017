@@ -1,3 +1,4 @@
+### Hello there
 ### General kenobi!
 ![Hello there](https://pbs.twimg.com/media/DZCuVSdWAAATA9K.jpg)
 
@@ -35,10 +36,12 @@ _Javascript_
   function SayHey() {
       console.log("Hey hey hey!");
   }
-  // :scream_cat:
+  // 🙀
   const sayHey = () => { console.log("HEY"); } 
   
 ```
+
+### Stay 💪 challenge your 🧠 and never forget 😴
 
 <!--
 **Gers2017/Gers2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
