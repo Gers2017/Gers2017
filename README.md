@@ -16,10 +16,4 @@
 - flutter
 - cryptography
 
-```go
-func iterate() {
-	learn()
-	improve()
-	iterate()
-}
-```
+![Metrics](/github-metrics.svg)
