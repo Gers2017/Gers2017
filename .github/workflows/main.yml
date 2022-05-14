@@ -22,10 +22,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          template: classic
           user: Gers2017
-          template: repository
-          base: header
-          
+          base: header, activity
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
