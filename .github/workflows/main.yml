@@ -24,7 +24,8 @@ jobs:
           # Options
           user: Gers2017
           template: repository
-          base: header, activity, community
+          base: header
+          
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
@@ -41,7 +42,3 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           repositories: 100
-
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
