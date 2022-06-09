@@ -1,21 +1,14 @@
-# Hi I'm Gers 🐙🫠
+# Hello friend 🐙🫠
 
-- I enjoy activities such as coding, listen music, read and take care of plants
-- I'm interested in cryptography, open source software and building developer tools
-- Fan of statically typed languages
-- My favorite tech stack right now is react + typescript + postgresql + prisma
+> As soon as you trust yourself, you will know how to live. - Johann Wolfgang von Goethe
 
-### Currently interested in / working on
+- Average Programming Enjoyer
+- Data structures and Design patterns 😳
+- Hate the sin not the sinner
+- Interested in cryptography, open source software, cli utilities/tools
+- Fan of statically typed languages, interfaces should start with I
+- 1969, Inheritance was invented
 
-- typescript
-- graphql
-- linux
-- cryptography
-- cli tools
-- golang
-- rust
-- flutter
+![gers2017-readme](https://gers2017-readme.vercel.app/api/card?username=Gers2017&cache_seconds=14400&theme=glitch)
 
-![gers2017-readme](https://gers2017-readme.vercel.app/api/card?username=Gers2017&cache_seconds=14400&theme=vscode)
-
-![Metrics](/github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gers2017&layout=compact&card_width=460&theme=github_dark&hide=shaderlab,html,hlsl&langs_count=8)
