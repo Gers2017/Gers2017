@@ -1,4 +1,4 @@
-# Hello friend 🐙🫠
+# [Hello friend 🐙🫠](./EMDAER.md)
 
 > As soon as you trust yourself, you will know how to live. - Johann Wolfgang von Goethe
 
@@ -12,3 +12,5 @@
 ![gers2017-readme](https://gers2017-readme.vercel.app/api/card?username=Gers2017&cache_seconds=14400&theme=glitch)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gers2017&layout=compact&card_width=460&theme=github_dark&hide=shaderlab,html,hlsl&langs_count=8)
+
+[More metrics](METRICS.md)
